@@ -1,0 +1,19 @@
+{
+  "name": "onlinebookapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CDjepeno/OnlineBookAPI.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CDjepeno/OnlineBookAPI/issues"
+  },
+  "homepage": "https://github.com/CDjepeno/OnlineBookAPI#readme"
+}
