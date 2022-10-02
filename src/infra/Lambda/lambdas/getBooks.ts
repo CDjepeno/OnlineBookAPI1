@@ -7,9 +7,7 @@
       description: "get Books",
     },
   };
-
-  export const hassan = {name: "robleh"};
-
+  
 async function handler(event:any, context: any) {
   console.log('Got an event')
   console.log(event)
